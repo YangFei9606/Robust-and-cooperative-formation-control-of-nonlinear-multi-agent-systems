@@ -12,3 +12,5 @@ The publication list for Yang is: (Updated October 2021)
 [4] Y. Fei, P. Shi, and C.-C. Lim, “Robust and collision-free formation control of multiagent systems with limited information,” IEEE Transactions on Neural Networks and Learning Systems, September 2021.
 
 Yang's Google Scholar: https://scholar.google.com.au/citations?user=6hxiUN4AAAAJ&hl=en
+Yang's Researchgate: https://www.researchgate.net/profile/Yang-Fei-15
+Yang's Publon: https://publons.com/researcher/4371040/yang-fei/
