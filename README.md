@@ -1,4 +1,4 @@
-# Robust-Formation-Control-of-Multi-Agent-Systems
+# Robust and cooperative formation control of nonlinear multi-agent systems
 This is the Github website for all the work Yang conducted during his PhD candidature with the University of Adelaide
 
 The publication list for Yang is: (Updated October 2021)
