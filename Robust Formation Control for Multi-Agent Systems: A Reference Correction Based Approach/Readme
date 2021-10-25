@@ -2,3 +2,12 @@ This is the folder that contains the code for paper "Robust Formation Control fo
 
 Here, two comparative simulations are provided to illustrate the effectiveness of the algorithms we proposed in the above paper.
 
+Some tips for those that are interested:
+1. The file "five_bots_Observer_Obstacle_1_sin_cir_nc.slx" is the simulation for formation control without the reference correction algorithm. 
+2. The file "five_bots_Observer_Obstacle_1_sin_cir.slx" is the simulation with the reference correction algorithm.
+3. The file "draw_the_robot.m" is a self-written program that help us draw out the omni-directional robot with an input of [x,y,theta].
+4. The file "plotting.m" is the file I wrote to draw the figures in my paper.
+5. The file "video_test.m" is the file I wrote to have a video illustration of the formation tracking approach.
+
+Hope you enjoy and get some inspiration from my work. :)
+Yang Oct 2021
