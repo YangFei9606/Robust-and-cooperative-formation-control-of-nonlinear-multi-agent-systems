@@ -10,3 +10,5 @@ The publication list for Yang is: (Updated October 2021)
 [3] Y. Fei, P. Shi, and C.-C. Lim, “Robust formation control for multi-agent systems: A reference correction based approach,” IEEE Transactions on Circuits and Systems I: Regular Papers, vol. 68, no. 6, pp. 2616–2625, June 2021.
 
 [4] Y. Fei, P. Shi, and C.-C. Lim, “Robust and collision-free formation control of multiagent systems with limited information,” IEEE Transactions on Neural Networks and Learning Systems, September 2021.
+
+Yang's Google Scholar: https://scholar.google.com.au/citations?user=6hxiUN4AAAAJ&hl=en
