@@ -1,3 +1,9 @@
 This folder contains the code for my paper "Neural network adaptive dynamic sliding mode formation control of multi-agent systems". 
 
+Some corrections to make for those who are interested:
+
+1. Equation (39): It should be L(rho_i) - e_{xi}(0)
+2. Table 2: The orientation of the first rover should be pi/4
+3. The rotation matrix in (42): The element on the second row and the third column should be -cos(pi/3 + theta)
+
 Corresponding work is expected to be uploaded soon. 
