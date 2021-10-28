@@ -9,12 +9,12 @@ angle=positioninfo(3);
 % length=0.1;             % length of the wheel    
 % width=0.05;              % width of the wheel
 
-
-Radius=[0.24,0.23,0.30,0.28,0.25];
+width=0.06;              % width of the wheel
+Radius=[0.24,0.23,0.30,0.28,0.25] - width;
 
 radius=Radius(serial_num);               % radius of the robot   
 length=0.2;             % length of the wheel    
-width=0.1;              % width of the wheel
+
 
 
 
