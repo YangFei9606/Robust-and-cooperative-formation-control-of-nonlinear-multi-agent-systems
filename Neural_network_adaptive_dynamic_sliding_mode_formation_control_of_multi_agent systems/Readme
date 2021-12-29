@@ -6,4 +6,16 @@ Some corrections to make for those who are interested:
 2. Table 2: The orientation of the first rover should be pi/4
 3. The rotation matrix in (42): The element on the second row and the third column should be -cos(pi/3 + theta)
 
-Corresponding work is expected to be uploaded soon. 
+30 Dec 2021
+Some changes have been made to fresh up the designs posted several month ago.
+Note that the formation reference in the current version is different from the one offered in the original paper.
+
+four_bots_CNN_DSM.xls is for the original design.
+four_bots_CNN_DSM_compare.xls is a comparative simulation to see if it is okay to include the hysteresis as a part of the system uncertainty. From simulation, the brutal way works.
+hysteresis_phenomenon.slx is the simulink file to illustrate what is a hysteresis phenomenon.
+
+dilute_data.m, draw_the_robot.m and plotting_cnn_design.m are for plotting.
+
+Hope you find it interesting and get some inspiration from it.
+
+Copyright: Yang Fei @ The University of Adelaide
