@@ -10,8 +10,8 @@ Some corrections to make for those who are interested:
 Some changes have been made to fresh up the designs posted several month ago.
 Note that the formation reference in the current version is different from the one offered in the original paper.
 
-four_bots_CNN_DSM.xls is for the original design.
-four_bots_CNN_DSM_compare.xls is a comparative simulation to see if it is okay to include the hysteresis as a part of the system uncertainty. From simulation, the brutal way works.
+four_bots_CNN_DSM.slx is for the original design.
+four_bots_CNN_DSM_compare.slx is a comparative simulation to see if it is okay to include the hysteresis as a part of the system uncertainty. From simulation, the brutal way works.
 hysteresis_phenomenon.slx is the simulink file to illustrate what is a hysteresis phenomenon.
 
 dilute_data.m, draw_the_robot.m and plotting_cnn_design.m are for plotting.
