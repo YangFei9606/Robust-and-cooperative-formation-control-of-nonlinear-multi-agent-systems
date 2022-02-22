@@ -1,7 +1,7 @@
 # Robust and cooperative formation control of nonlinear multi-agent systems
 This is the Github website for all the work Yang conducted during his PhD candidature with the University of Adelaide
 
-The publication list for Yang is: (Updated December 2021)
+The publication list for Yang is: (Updated February 2022)
 
 [1] Y. Fei, P. Shi, and C.-C. Lim, “Neural network adaptive dynamic sliding mode formation control of multi-agent systems,” International Journal of Systems Science, vol. 51, no. 11, pp. 2025–2040, August 2020.
 
