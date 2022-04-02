@@ -1,7 +1,7 @@
 # Robust and cooperative formation control of nonlinear multi-agent systems
 This is the Github website for all the work Yang conducted during his PhD candidature with the University of Adelaide
 
-The publication list for Yang is: (Updated February 2022)
+The publication list for Yang is: (Updated April 2022)
 
 [1] Y. Fei, P. Shi, and C.-C. Lim, “Neural network adaptive dynamic sliding mode formation control of multi-agent systems,” International Journal of Systems Science, vol. 51, no. 11, pp. 2025–2040, August 2020.
 
@@ -14,6 +14,8 @@ The publication list for Yang is: (Updated February 2022)
 [5] Y. Fei, X. Yuan, P. Shi and C.-C. Lim, "Neural-based hierarchical formation control of mixed-order multi-agent systems", Proceedings of the 2021 International Conference on Machine Learning and Cybernetics, pp. -, December 2021.
 
 [6] Y. Fei, Y. Sun and P. Shi, "Robust Hierarchical Formation Control of Unmanned Aerial Vehicles via Neural-Based Observers", Drones (Special Issue), vol. 6, no. 2, pp. 40, Feb, 2022. (Invited paper)
+
+[7] Y. Fei, P. Shi, and C.-C. Lim, "Neural-based formation control of uncertain multi-agent systems with actuator saturation", Nonlinear Dynamics, April 2022. 
 
 
 Yang's Google Scholar: https://scholar.google.com.au/citations?user=6hxiUN4AAAAJ&hl=en
