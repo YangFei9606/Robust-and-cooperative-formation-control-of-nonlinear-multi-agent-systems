@@ -3,3 +3,9 @@ This folder contains the codes developed for the paper "Neural-based formation c
 
 This paper is also in an Open Access mode, please feel free to download it.
 
+Hints to play around:
+FO_CTDNN_P_Bia_Para_0_V1: CTFC
+FO_CTDNN_P_Bia_Para_1_V1: RCTFC
+FO_CTDNN_P_Bia_Para_2_V2: OBFC
+FO_CTDNN_P_Bia_Para_3_trigger_V1: AOBFC
+
