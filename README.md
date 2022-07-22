@@ -13,9 +13,9 @@ The chronological publication list for Yang is: (Updated April 2022)
 
 [5] Y. Fei, X. Yuan, P. Shi and C.-C. Lim, "Neural-based hierarchical formation control of mixed-order multi-agent systems", Proceedings of the 2021 International Conference on Machine Learning and Cybernetics, pp. 1-6, December 2021.
 
-[6] Y. Fei, Y. Sun and P. Shi, "Robust Hierarchical Formation Control of Unmanned Aerial Vehicles via Neural-Based Observers", Drones (Special Issue), vol. 6, no. 2, pp. 40, Feb, 2022. (Invited paper) (OA)
+[6] Y. Fei, Y. Sun and P. Shi, "Robust Hierarchical Formation Control of Unmanned Aerial Vehicles via Neural-Based Observers", Drones (Special Issue), vol. 6, no. 2, pp. 40, February 2022. (Invited paper) (OA)
 
-[7] Y. Fei, P. Shi, and C.-C. Lim, "Neural-based formation control of uncertain multi-agent systems with actuator saturation", Nonlinear Dynamics, April 2022. (OA)
+[7] Y. Fei, P. Shi, and C.-C. Lim, "Neural-based formation control of uncertain multi-agent systems with actuator saturation", Nonlinear Dynamics, vol. 108, pp. 3693–3709, June 2022. (OA)
 
 
 Yang's Google Scholar: https://scholar.google.com.au/citations?user=6hxiUN4AAAAJ&hl=en
