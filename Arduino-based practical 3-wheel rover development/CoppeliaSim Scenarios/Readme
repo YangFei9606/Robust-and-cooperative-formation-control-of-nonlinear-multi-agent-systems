@@ -3,8 +3,6 @@ This folder contains the CoppeliaSim scenarios for the omni-directional robots s
 
 CoppeliaSim is a free-to-download physical simulation platform. 
 
-The work in this folder is the joint work of Yang Fei and Xin (Vernom) Yuan.
-
 Both MATLAB and CoppeliaSim and required for running the included scenarios. 
 
 
