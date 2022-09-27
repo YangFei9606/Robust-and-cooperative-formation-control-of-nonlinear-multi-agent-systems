@@ -1,0 +1,4 @@
+
+This folder contains a single rover scenario. 
+
+To run this scene, you need to build up the connection between MATLAB and CoppeliaSim to send over control commends. 
