@@ -17,6 +17,9 @@ The chronological publication list for Yang is: (Updated April 2022)
 
 [7] Y. Fei, P. Shi, and C.-C. Lim, "Neural-based formation control of uncertain multi-agent systems with actuator saturation", Nonlinear Dynamics, vol. 108, pp. 3693–3709, June 2022. (OA)
 
+On 21 September, Yang obtained his PhD in Electrical and Electronic Engineering (specialised in control engineering) from the University of Adelaide along with a Dean's Commendation on Doctoral Thesis Excellence. Yang was also selected as the Valedictorian of his ceremony. 
+
+And now, Yang is unemployed................
 
 Yang's Google Scholar: https://scholar.google.com.au/citations?user=6hxiUN4AAAAJ&hl=en
 
