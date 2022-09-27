@@ -2,3 +2,7 @@
 This folder contains a single rover scenario. 
 
 To run this scene, you need to build up the connection between MATLAB and CoppeliaSim to send over control commends. 
+
+Main files:
+MATLAB: test_one_rover_vrep.m
+CoppeliaSim: PID_One_Rover_FIxed.ttt
