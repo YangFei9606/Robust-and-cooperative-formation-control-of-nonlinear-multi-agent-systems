@@ -1,0 +1,1 @@
+This folder contains the test code for the Arduino to WiFi internet connection.
