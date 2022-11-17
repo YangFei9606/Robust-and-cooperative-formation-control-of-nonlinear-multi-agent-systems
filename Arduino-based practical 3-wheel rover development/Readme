@@ -5,4 +5,8 @@ This project aims to develop practical 3-wheel omni-directional rovers from scra
 
 The CoppeliaSim scenarios are updated for both single rover tests and multi-rover collaboration tests. 
 
-To be continued......
+17 Nov 2022
+
+The numerical simulations (simulink files) and hardware-in-the-loop (HITL) experimental platform are shared simultaneously.
+The corresponding work entitled "Finite-Time Observer-Based Formation Tracking with Application to Omni-Directional Robots" 
+has been accepted by IEEE Transactions on Industrial Electronics. 
