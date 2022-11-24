@@ -17,7 +17,7 @@ The chronological publication list for Yang is: (Updated April 2022)
 
 [7] Y. Fei, P. Shi, and C.-C. Lim, "Neural-based formation control of uncertain multi-agent systems with actuator saturation", Nonlinear Dynamics, vol. 108, pp. 3693–3709, June 2022. (OA)
 
-[8] Y. Fei, P. Shi, C. P. Lim and X. Yuan, "Finite-Time Observer-Based Formation Tracking with Application to Omni-Directional Robots", IEEE Transactions on Industrial Electronics, Nov. 2022. (Early access)
+[8] Y. Fei, P. Shi, C. P. Lim and X. Yuan, "Finite-Time Observer-Based Formation Tracking with Application to Omni-Directional Robots", IEEE Transactions on Industrial Electronics, Nov. 2022.
 
 On 21 September 2022, Yang obtained his PhD in Electrical and Electronic Engineering (specialised in control engineering) from the University of Adelaide along with a Dean's Commendation on Doctoral Thesis Excellence. Yang was also selected as the Valedictorian of his ceremony. 
 
