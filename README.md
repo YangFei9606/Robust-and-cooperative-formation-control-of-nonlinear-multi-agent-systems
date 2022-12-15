@@ -1,7 +1,7 @@
 # Robust and cooperative formation control of nonlinear multi-agent systems
 This is the Github website for all the work Yang conducted during his PhD candidature with the University of Adelaide
 
-The chronological publication list for Yang is: (Updated April 2022)
+The chronological publication list for Yang is:
 
 [1] Y. Fei, P. Shi, and C.-C. Lim, “Neural network adaptive dynamic sliding mode formation control of multi-agent systems,” International Journal of Systems Science, vol. 51, no. 11, pp. 2025–2040, August 2020.
 
@@ -20,8 +20,6 @@ The chronological publication list for Yang is: (Updated April 2022)
 [8] Y. Fei, P. Shi, C. P. Lim and X. Yuan, "Finite-Time Observer-Based Formation Tracking with Application to Omni-Directional Robots", IEEE Transactions on Industrial Electronics, Nov. 2022.
 
 On 21 September 2022, Yang obtained his PhD in Electrical and Electronic Engineering (specialised in control engineering) from the University of Adelaide along with a Dean's Commendation on Doctoral Thesis Excellence. Yang was also selected as the Valedictorian of his ceremony. 
-
-And now, Yang is unemployed................
 
 Yang's Google Scholar: https://scholar.google.com.au/citations?user=6hxiUN4AAAAJ&hl=en
 
