@@ -21,6 +21,8 @@ The chronological publication list for Yang is:
 
 On 21 September 2022, Yang obtained his PhD in Electrical and Electronic Engineering (specialised in control engineering) from the University of Adelaide along with a Dean's Commendation on Doctoral Thesis Excellence. Yang was also selected as the Valedictorian of his ceremony. 
 
+For technical discussion, please contact yangfei9606@gmail.com
+
 Yang's Google Scholar: https://scholar.google.com.au/citations?user=6hxiUN4AAAAJ&hl=en
 
 Yang's Researchgate: https://www.researchgate.net/profile/Yang-Fei-15
